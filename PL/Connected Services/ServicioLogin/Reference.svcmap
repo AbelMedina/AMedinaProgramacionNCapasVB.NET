@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4464f80e-7ffd-4c7e-b663-8eb128c24254" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50579/ServicioLogin.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioLogin.xsd" MetadataType="Schema" ID="8535214a-0b42-47fd-89f5-bc878918f908" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServicioLogin.wsdl" MetadataType="Wsdl" ID="d3e6cf47-b776-4316-b028-ed099026e08f" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?wsdl" />
+    <MetadataFile FileName="ServicioLogin1.xsd" MetadataType="Schema" ID="79e40ab9-7be9-4740-87ec-46c5da62ba37" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?xsd=xsd5" />
+    <MetadataFile FileName="ServicioLogin2.xsd" MetadataType="Schema" ID="1237616b-fafd-4d26-a7eb-245e7744ad4c" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicioLogin3.xsd" MetadataType="Schema" ID="235174d9-6657-4b0d-9ba1-d34a9232f0a2" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServicioLogin4.xsd" MetadataType="Schema" ID="83b41661-6d9d-474e-ad61-d8632aa51f04" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicioLogin5.xsd" MetadataType="Schema" ID="2b3cf0de-0470-4632-88ca-d0f529851a44" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicioLogin.disco" MetadataType="Disco" ID="44a26107-79af-42b6-9abd-307c0f3d5177" SourceId="1" SourceUrl="http://localhost:50579/ServicioLogin.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,3 @@
+@Imports SL_WebAPI.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
